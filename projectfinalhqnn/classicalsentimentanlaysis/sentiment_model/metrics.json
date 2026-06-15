@@ -1,0 +1,15 @@
+{
+    "validation_results": {
+        "eval_loss": 0.4061107635498047,
+        "eval_accuracy": 0.8827690752905508,
+        "eval_runtime": 9.0078,
+        "eval_samples_per_second": 219.699,
+        "eval_steps_per_second": 27.532,
+        "epoch": 10.0
+    },
+    "test_accuracy": 0.8756528226809251,
+    "training_time_min": 3.5787256002426147,
+    "test_precision": 0.8697,
+    "test_recall": 0.8836,
+    "test_f1": 0.8766
+}
